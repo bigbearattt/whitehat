@@ -9,7 +9,7 @@ Chạy đến hàm choice() để xem giá trị của v4 được tính như th
 
 ![](pwn2.png)
 
-![](pwn2.png)
+![](pwn3.png)
 
 Nhìn vào đó có thể thấy được v49 là giá trị trả về.
 Địa chỉ của v49 trong stack là: `bp-110h`
